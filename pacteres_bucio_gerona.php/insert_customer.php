@@ -10,7 +10,7 @@
     PhoneNumber: <input type="number" name="PhoneNumber" id="PhoneNumber" placeholder="Enter your phone number" required>
 </div>
       <div class="input-field">
-    Email: <input type="text" name="Email" id="Email" placeholder="Enter your email" required>
+    Email: <input type="email" name="Email" id="Email" placeholder="Enter your email" required>
     </div>
       <div class="input-field">
     Address:<input type="text" name="Address" id="Address" placeholder="Enter your address" required>
